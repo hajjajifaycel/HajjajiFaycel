@@ -23,7 +23,8 @@
 <br />
 
 
-  <img align="left" alt="Faycel's GitHub Stats" src="https://github-readme-stats.hajjajifaycel.vercel.app/api?username=hajjajifaycel&show_icons=true&hide_border=true" />
+  [![Faycel's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajjajifaycel)]
+
 
 
 
