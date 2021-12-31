@@ -23,7 +23,7 @@
 <br />
 
 
-  <img align="left" alt="Faycel's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hajjajifaycel&show_icons=true&hide_border=true" />
+  <img align="left" alt="Faycel's GitHub Stats" src="https://github-readme-stats.hajjajifaycel.vercel.app/api?username=hajjajifaycel&show_icons=true&hide_border=true" />
 
 
 
