@@ -23,7 +23,7 @@
 <br />
 
 
-  [![Faycel's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajjajifaycel)]
+  ![Faycel's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajjajifaycel)
 
 
 
