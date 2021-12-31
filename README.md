@@ -6,7 +6,7 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
 <br />
-<br />
+
 
   ![Faycel's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajjajifaycel)
 
