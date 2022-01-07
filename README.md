@@ -9,7 +9,7 @@
 
 
   ![Faycel's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajjajifaycel&show_icons=true)
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajjajifaycel&layout=compact&theme=buefy&hide_border=true" /></a>
+  <a href="https://github.com/hajjajifaycel/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajjajifaycel&layout=compact&theme=buefy&hide_border=true" /></a>
 
 
 
