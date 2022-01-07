@@ -8,7 +8,7 @@
 <br />
 
 
-  ![Faycel's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajjajifaycel&show_icons=true)
+  ![Faycel's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajjajifaycel)
 
 
   ### Languages and Tools:
