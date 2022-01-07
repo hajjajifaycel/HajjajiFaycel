@@ -9,6 +9,8 @@
 
 
   ![Faycel's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajjajifaycel&show_icons=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hajjajifaycel)](https://github.com/hajjajifaycel/github-readme-stats)
+
 
 
   ### Languages and Tools:
