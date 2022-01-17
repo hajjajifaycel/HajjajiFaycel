@@ -8,7 +8,7 @@
 <br />
 
 
-  | <a href="https://github.com/hajjajifaycel/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hajjajifaycel&show_icons=true&theme=dark&include_all_commits=true&theme=dark&hide_border=true" alt="faycel's github stats" /></a> | <a href="https://github.com/hajjajifaycel/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajjajifaycel&layout=compact&theme=dark&hide_border=true" /></a> |
+  | <a href="https://github.com/hajjajifaycel/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hajjajifaycel&show_icons=true&theme=dark&include_all_commits=true&theme=dark&hide_border=true" alt="faycel's github stats" /></a> | <a href="https://github.com/hajjajifaycel/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajjajifaycel&layout=compact&theme=dark&hide_border=false" /></a> |
 | ------------- | ------------- |
 
 
