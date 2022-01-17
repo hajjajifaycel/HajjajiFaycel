@@ -1,6 +1,6 @@
 ### Hi there, I'm Faycel 👋 
 
-## I'm a Fullstack Developer !!
+## I'm a Front-end Developer !!
 
 - 🌱 I’m currently learning back-end development 
 - 🥅 2022 Goals: Contribute more to Open Source projects
