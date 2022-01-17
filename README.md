@@ -8,8 +8,12 @@
 <br />
 
 
-  ![Faycel's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajjajifaycel&theme=github_dark&show_icons=true)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hajjajifaycel&layout=compacttheme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/hajjajifaycel/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hajjajifaycel&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/hajjajifaycel/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hajjajifaycel&repo=convoychat" />
+</a>
 
 
 
